@@ -7,6 +7,3 @@ Final Project of the second 12-week cycle in the Frauenloop Machine Learning tra
 **Methods I try and why**:
 - Compare TFIDF with Word2vec to preprocess dataset for classification. I am trying two different approaches, one statistical approach and one learning approach
 - Compare random forest with xgboost, using random forest as baseline for the classification
-
-**Further questions**:
-- Which of the classifications is easier to distinguish?
